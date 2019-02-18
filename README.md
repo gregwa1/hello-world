@@ -1,4 +1,4 @@
 # hello-world
-An introduction to Computer Science
-New changes to an old idea
-let's grow
+An introduction to Computer Science.
+New changes to an old idea.
+let's grow!
